@@ -3,7 +3,10 @@
 
 ## 소개
 
+![소개 이미지 파일](https://github.com/sesang06/Paint/blob/master/paint-1.jpg?raw=true)
+
 안드로이드로 만든 소소한 그림판
+
 
 현재는 https://www.ssaurel.com/blog/learn-to-create-a-paint-application-for-android/
 의 클론 수준이에요...
